@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""this module handles the statues code route"""
+"""This module handles the statues code route"""
 from flask import jsonify
 from api.v1.views import app_views
 from models.amenity import Amenity
